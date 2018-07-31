@@ -26,7 +26,7 @@
     "available_time": "2018/08/11 8:15 +0800",
     "expire_time": "2018/08/12 14:00 +0800",
     "countdown": 30,
-    "lock_message": "Haven't Check-in",
+    "lock_message": "Haven't Check-in"
   },
   "day2checkin": {
     "order": 2,
