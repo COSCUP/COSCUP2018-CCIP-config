@@ -1,0 +1,27 @@
+{
+  "day1checkin": {
+    "order": 0,
+    "display_text": {
+      "en-US": "Day 1 Check-in",
+      "zh-TW": "Day 1 報到"
+    },
+    "available_time": "2018/08/11 7:00 +0800",
+    "expire_time": "2018/08/11 18:00 +0800",
+    "countdown": 0,
+    "related_scenario": [
+    ],
+    "deliver_puzzle": 2
+  },
+  "day2checkin": {
+    "order": 2,
+    "display_text": {
+      "en-US": "Day 2 Check-in",
+      "zh-TW": "Day 2 報到"
+    },
+    "available_time": "2018/08/12 7:00 +0800",
+    "expire_time": "2018/08/12 14:00 +0800",
+    "countdown": 0,
+    "related_scenario": [
+    ]
+  }
+}
