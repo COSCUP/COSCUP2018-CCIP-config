@@ -12,6 +12,22 @@
     ],
     "deliver_puzzle": 2
   },
+  "kit": {
+    "order": 1, 
+    "display_text": {
+      "en-US": "T-Shirt", 
+      "zh-TW": "工作人員衣服"
+    },
+    "available_time": "2018/08/10 7:00 +0800",
+    "expire_time": "2018/08/12 17:00 +0800",
+    "countdown": 30,
+    "attr": [
+      {
+        "row_name": "shirt_size",
+        "attr_name": "shirt_size"
+      }
+    ]
+  },
   "day2checkin": {
     "order": 2,
     "display_text": {
